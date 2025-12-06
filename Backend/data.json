@@ -1,0 +1,36 @@
+{
+  "products": [
+    {
+      "id": 1765057241514,
+      "name": "Ensemble Jogging",
+      "price": 7000,
+      "image": "/images/product1.jpg",
+      "category": "enfants",
+      "description": "Esemble de qualites pour vos enfants."
+    },
+    {
+      "id": 1765057281461,
+      "name": "Sac a dos",
+      "price": 5000,
+      "image": "/images/product2.jpg",
+      "category": "accessoires",
+      "description": "Sac de bonne qualites"
+    },
+    {
+      "id": 1765057376342,
+      "name": "Coussin Allaitement",
+      "price": 6000,
+      "image": "/images/product4.jpg",
+      "category": "maternité",
+      "description": "Coussins tres confortables pour les mamans"
+    },
+    {
+      "id": 1765057417335,
+      "name": "Velo",
+      "price": 8000,
+      "image": "/images/product5.jpg",
+      "category": "jouets",
+      "description": "Velo pour vos enfants"
+    }
+  ]
+}

@@ -31,6 +31,14 @@
       "image": "/images/product5.jpg",
       "category": "jouets",
       "description": "Velo pour vos enfants"
+    },
+    {
+      "id": 1765065476365,
+      "name": "sandale",
+      "price": 3000,
+      "image": "/images/product7.jpg",
+      "category": "accessoires",
+      "description": "sandale"
     }
   ]
 }
